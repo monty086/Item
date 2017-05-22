@@ -14,9 +14,9 @@ function createEle() {
     var div = document.createElement('div')
     var img = document.createElement('img')
     var p = document.createElement('p')
-    var random = public.getRandom(1, 23)
+    var random = public.getRandom(1, 19)
     img.setAttribute('realImg', "img3/" + random + ".jpg");
-    p.innerHTML = "xxff" + random;
+    p.innerHTML = "我是第 " + random+' 张图片';
     div.style.height = public.getRandom(100, 200) + 'px';
     div.appendChild(img);
     li.appendChild(div);
