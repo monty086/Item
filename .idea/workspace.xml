@@ -58,11 +58,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="id_rsa.pub" pinned="false" current-in-tab="true">
+      <file leaf-file-name="id_rsa.pub" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../未命名文件夹/id_rsa.pub">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="397" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/.ssh/config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -85,6 +95,7 @@
       <list>
         <option value="$PROJECT_DIR$/README.md..md" />
         <option value="$PROJECT_DIR$/../未命名文件夹/id_rsa.pub的副本" />
+        <option value="$USER_HOME$/.ssh/config" />
       </list>
     </option>
   </component>
@@ -226,15 +237,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495431536232</updated>
-      <workItem from="1495431539023" duration="1795000" />
+      <workItem from="1495431539023" duration="1976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1795000" />
+    <option name="totallyTimeSpent" value="1976000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="178" y="221" width="1680" height="1024" extended-state="1" />
+    <frame x="178" y="221" width="1680" height="1024" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -313,6 +324,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="397" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.ssh/config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
