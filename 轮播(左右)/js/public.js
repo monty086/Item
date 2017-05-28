@@ -1,6 +1,3 @@
-/**
- * Created by 银鹏 on 2017/5/11.
- */
 
 var  public=(function(){
     var standardBrowser="getComputedStyle" in window;

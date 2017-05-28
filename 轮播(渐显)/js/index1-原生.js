@@ -1,6 +1,4 @@
-/**
- * Created by monty on 2017/5/22.
- */
+
 
 var banner = document.getElementById('banner');
 // var inner = public.getByClass('bannerInner');

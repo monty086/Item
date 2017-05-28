@@ -1,6 +1,4 @@
-/**
- * Created by ���� on 2017/5/16.
- */
+
 (function () {
     function animation(ele, target) {
         var sport, duration, callBack, effectAry = [], time = 0, begin = {};

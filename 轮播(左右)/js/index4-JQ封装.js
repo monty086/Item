@@ -1,6 +1,4 @@
-/**
- * Created by monty on 2017/5/27.
- */
+
 
 (function () {
     function banner(url, interval) {

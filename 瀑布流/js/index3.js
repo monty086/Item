@@ -1,6 +1,4 @@
-/**
- * Created by monty on 2017/5/19.
- */
+
 
 var uls = document.getElementsByTagName('ul');
 var ulsAry = public.toArray(uls)
